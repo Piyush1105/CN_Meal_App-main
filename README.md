@@ -1,6 +1,6 @@
 # CN_Meal_App
 Meal App - Coding Ninjas FE Skill Test Project 
-🪧 Demo :-  https://kabhinav577.github.io/CN_Meal_App/
+🪧 Demo :-  <https://piyush1105.github.io/CN_Meal_App-main/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 About the Project :-
